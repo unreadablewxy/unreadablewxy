@@ -11,7 +11,7 @@
 * Homelab owner, data hoarder, hobby crypto miner
 * For 450K/yr salary and the right project I might be convinced to becoming your architect
 
-Hit: Coca-cola, mainframes, lie down desks
+Hit: Australian coca-cola, mainframes, lie down desks
 
 Miss: Emails, driving, inconsistently formatted code
 
